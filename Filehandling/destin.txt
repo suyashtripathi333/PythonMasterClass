@@ -1,0 +1,10 @@
+Hi i m suyash tripathi here  
+and i m learning python here  
+let's learn it together
+Append operation take placeThis is new line 
+first line
+Second Line
+third line
+first line
+Second Line
+third line
